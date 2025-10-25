@@ -10,7 +10,7 @@ export default function Page() {
 
   const handleNavigate = (page: string) => {
     const targetPath = pageToPath[page] ?? '/';
-    router.push(targetPath);
+    router.push(targetPath as any);
   };
 
   return <HomePage onNavigate={handleNavigate} />;

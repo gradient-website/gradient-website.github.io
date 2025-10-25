@@ -13,7 +13,7 @@ export function NavigationWithRouter() {
 
   const handleNavigate = (page: string) => {
     const targetPath = pageToPath[page] ?? '/';
-    router.push(targetPath);
+    router.push(targetPath as any);
   };
 
   return <Navigation currentPage={currentPage} onNavigate={handleNavigate} />;
