@@ -1,1 +1,546 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[301],{433:function(e,t,s){Promise.resolve().then(s.bind(s,6350))},6350:function(e,t,s){"use strict";s.r(t),s.d(t,{default:function(){return n}});var r=s(7437);s(2265);var a=s(9184);function i(){return(0,r.jsxs)("div",{className:"min-h-screen bg-white",children:[(0,r.jsx)("section",{className:"py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-green-50 to-blue-50",children:(0,r.jsxs)("div",{className:"max-w-4xl mx-auto text-center",children:[(0,r.jsx)("h1",{className:"text-4xl md:text-5xl text-gray-900 mb-6",children:"About Gradient"}),(0,r.jsx)("p",{className:"text-xl text-gray-600",children:"Building bridges between academic excellence and real-world innovation"})]})}),(0,r.jsx)("section",{className:"py-16 px-4 sm:px-6 lg:px-8",children:(0,r.jsxs)("div",{className:"max-w-4xl mx-auto",children:[(0,r.jsxs)("div",{className:"text-center mb-12",children:[(0,r.jsx)("h2",{className:"text-3xl text-gray-900 mb-6",children:"Our Mission"}),(0,r.jsx)("p",{className:"text-lg text-gray-700 leading-relaxed",children:"Gradient is committed to fostering academic excellence through innovative educational programs, challenging competitions, and collaborative events. We believe that by pushing the boundaries of traditional education, we can inspire the next generation of leaders, thinkers, and innovators."})]}),(0,r.jsxs)("div",{className:"grid grid-cols-1 md:grid-cols-2 gap-12 mb-16",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"text-2xl text-gray-900 mb-4",children:"What We Do"}),(0,r.jsxs)("ul",{className:"space-y-3 text-gray-700",children:[(0,r.jsxs)("li",{className:"flex items-start",children:[(0,r.jsx)("div",{className:"w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"}),(0,r.jsx)("span",{children:"Develop and organize challenging academic Olympiads across multiple disciplines"})]}),(0,r.jsxs)("li",{className:"flex items-start",children:[(0,r.jsx)("div",{className:"w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"}),(0,r.jsx)("span",{children:"Host JunctionX events that connect students with industry professionals"})]}),(0,r.jsxs)("li",{className:"flex items-start",children:[(0,r.jsx)("div",{className:"w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"}),(0,r.jsx)("span",{children:"Create collaborative learning environments for academic growth"})]}),(0,r.jsxs)("li",{className:"flex items-start",children:[(0,r.jsx)("div",{className:"w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0"}),(0,r.jsx)("span",{children:"Build partnerships with educational institutions and industry leaders"})]})]})]}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"text-2xl text-gray-900 mb-4",children:"Our Values"}),(0,r.jsxs)("div",{className:"space-y-4",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("h4",{className:"text-lg text-gray-900 mb-2",children:"Excellence"}),(0,r.jsx)("p",{className:"text-gray-600",children:"We strive for the highest standards in everything we do, from program development to event execution."})]}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h4",{className:"text-lg text-gray-900 mb-2",children:"Innovation"}),(0,r.jsx)("p",{className:"text-gray-600",children:"We embrace new ideas and approaches to create unique learning experiences."})]}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h4",{className:"text-lg text-gray-900 mb-2",children:"Collaboration"}),(0,r.jsx)("p",{className:"text-gray-600",children:"We believe in the power of working together to achieve greater impact."})]})]})]})]})]})}),(0,r.jsx)("section",{className:"py-16 px-4 sm:px-6 lg:px-8 bg-gray-50",children:(0,r.jsxs)("div",{className:"max-w-4xl mx-auto",children:[(0,r.jsx)("h2",{className:"text-3xl text-gray-900 mb-8 text-center",children:"Our Journey"}),(0,r.jsxs)("div",{className:"space-y-8",children:[(0,r.jsxs)("div",{className:"flex flex-col md:flex-row items-start md:items-center gap-6",children:[(0,r.jsx)("div",{className:"w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",children:"2020"}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"text-xl text-gray-900 mb-2",children:"Foundation"}),(0,r.jsx)("p",{className:"text-gray-600",children:"Gradient was founded by a group of passionate educators and students with a vision to revolutionize academic competitions and educational events."})]})]}),(0,r.jsxs)("div",{className:"flex flex-col md:flex-row items-start md:items-center gap-6",children:[(0,r.jsx)("div",{className:"w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",children:"2021"}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"text-xl text-gray-900 mb-2",children:"First Olympiad"}),(0,r.jsx)("p",{className:"text-gray-600",children:"Launched our first academic Olympiad, attracting over 500 participants from universities across the region and establishing our reputation for excellence."})]})]}),(0,r.jsxs)("div",{className:"flex flex-col md:flex-row items-start md:items-center gap-6",children:[(0,r.jsx)("div",{className:"w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",children:"2022"}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"text-xl text-gray-900 mb-2",children:"JunctionX Partnership"}),(0,r.jsx)("p",{className:"text-gray-600",children:"Became an official JunctionX organizer, expanding our reach and creating opportunities for students to engage with cutting-edge technology and innovation."})]})]}),(0,r.jsxs)("div",{className:"flex flex-col md:flex-row items-start md:items-center gap-6",children:[(0,r.jsx)("div",{className:"w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",children:"2024"}),(0,r.jsxs)("div",{children:[(0,r.jsx)("h3",{className:"text-xl text-gray-900 mb-2",children:"Global Expansion"}),(0,r.jsx)("p",{className:"text-gray-600",children:"Today, Gradient serves thousands of students worldwide, partnering with leading institutions and organizations to create impactful educational experiences."})]})]})]})]})}),(0,r.jsx)("section",{className:"py-16 px-4 sm:px-6 lg:px-8",children:(0,r.jsxs)("div",{className:"max-w-6xl mx-auto",children:[(0,r.jsx)("h2",{className:"text-3xl text-gray-900 mb-12 text-center",children:"Our Impact"}),(0,r.jsxs)("div",{className:"grid grid-cols-1 md:grid-cols-4 gap-8 text-center",children:[(0,r.jsxs)("div",{children:[(0,r.jsx)("div",{className:"text-4xl text-gray-900 mb-2",children:"5,000+"}),(0,r.jsx)("div",{className:"text-gray-600",children:"Students Reached"})]}),(0,r.jsxs)("div",{children:[(0,r.jsx)("div",{className:"text-4xl text-gray-900 mb-2",children:"25+"}),(0,r.jsx)("div",{className:"text-gray-600",children:"Events Organized"})]}),(0,r.jsxs)("div",{children:[(0,r.jsx)("div",{className:"text-4xl text-gray-900 mb-2",children:"50+"}),(0,r.jsx)("div",{className:"text-gray-600",children:"Partner Institutions"})]}),(0,r.jsxs)("div",{children:[(0,r.jsx)("div",{className:"text-4xl text-gray-900 mb-2",children:"15"}),(0,r.jsx)("div",{className:"text-gray-600",children:"Countries"})]})]})]})}),(0,r.jsx)("section",{className:"py-12 px-4 sm:px-6 lg:px-8 bg-gray-50",children:(0,r.jsx)("div",{className:"max-w-2xl mx-auto",children:(0,r.jsx)(a.E,{})})})]})}function n(){return(0,r.jsx)(i,{})}},9184:function(e,t,s){"use strict";s.d(t,{E:function(){return l}});var r=s(7437),a=s(2265),i=s(2869),n=s(5186);function l(e){let{variant:t="default"}=e,[s,l]=(0,a.useState)(""),[d,c]=(0,a.useState)(!1),o=e=>{e.preventDefault(),c(!0),l(""),setTimeout(()=>c(!1),3e3)};return"hero"===t?(0,r.jsxs)("form",{onSubmit:o,className:"flex flex-col sm:flex-row gap-4 max-w-md mx-auto",children:[(0,r.jsx)(n.I,{type:"email",placeholder:"Enter your email address",value:s,onChange:e=>l(e.target.value),required:!0,className:"flex-1"}),(0,r.jsx)(i.z,{type:"submit",className:"bg-gradient-to-r from-green-500 to-blue-600 hover:from-green-600 hover:to-blue-700 px-8",children:d?"Subscribed!":"Join Now"})]}):(0,r.jsxs)("div",{className:"bg-gradient-to-r from-green-50 to-blue-50 p-6 rounded-lg border border-gray-200",children:[(0,r.jsx)("h3",{className:"text-lg text-gray-900 mb-2",children:"Stay Updated"}),(0,r.jsx)("p",{className:"text-gray-600 mb-4",children:"Join our mailing list to receive updates about upcoming events, Olympiads, and important announcements."}),(0,r.jsxs)("form",{onSubmit:o,className:"flex gap-4",children:[(0,r.jsx)(n.I,{type:"email",placeholder:"Enter your email address",value:s,onChange:e=>l(e.target.value),required:!0,className:"flex-1"}),(0,r.jsx)(i.z,{type:"submit",className:"bg-gradient-to-r from-green-500 to-blue-600 hover:from-green-600 hover:to-blue-700",children:d?"Subscribed!":"Subscribe"})]})]})}},2869:function(e,t,s){"use strict";s.d(t,{z:function(){return c}});var r=s(7437),a=s(2265),i=s(5293),n=s(535),l=s(9755);let d=(0,n.j)("inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50",{variants:{variant:{default:"bg-gradient-to-r from-green-500 to-blue-600 text-white hover:from-green-600 hover:to-blue-700",destructive:"bg-red-500 text-white hover:bg-red-600",outline:"border border-input bg-transparent hover:bg-gray-50 text-gray-900",secondary:"bg-gray-100 text-gray-900 hover:bg-gray-200",ghost:"hover:bg-gray-100 hover:text-gray-900",link:"text-blue-600 underline-offset-4 hover:underline"},size:{default:"h-10 px-4 py-2",sm:"h-9 px-3",lg:"h-11 px-8",icon:"h-10 w-10"}},defaultVariants:{variant:"default",size:"default"}}),c=a.forwardRef((e,t)=>{let{className:s,variant:a,size:n,asChild:c=!1,...o}=e,x=c?i.g7:"button";return(0,r.jsx)(x,{className:(0,l.cn)(d({variant:a,size:n}),s),ref:t,...o})});c.displayName="Button"},5186:function(e,t,s){"use strict";s.d(t,{I:function(){return n}});var r=s(7437),a=s(2265),i=s(9755);let n=a.forwardRef((e,t)=>{let{className:s,type:a="text",...n}=e;return(0,r.jsx)("input",{type:a,className:(0,i.cn)("flex h-10 w-full rounded-md border border-input bg-white px-3 py-2 text-sm text-gray-900 shadow-sm transition-colors placeholder:text-gray-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50",s),ref:t,...n})});n.displayName="Input"},9755:function(e,t,s){"use strict";s.d(t,{cn:function(){return i}});var r=s(1994),a=s(3335);function i(){for(var e=arguments.length,t=Array(e),s=0;s<e;s++)t[s]=arguments[s];return(0,a.m6)((0,r.W)(t))}}},function(e){e.O(0,[50,971,117,744],function(){return e(e.s=433)}),_N_E=e.O()}]);
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [301],
+  {
+    433: function (e, t, s) {
+      Promise.resolve().then(s.bind(s, 6350));
+    },
+    6350: function (e, t, s) {
+      "use strict";
+      (s.r(t),
+        s.d(t, {
+          default: function () {
+            return n;
+          },
+        }));
+      var r = s(7437);
+      s(2265);
+      var a = s(9184);
+      function i() {
+        return (0, r.jsxs)("div", {
+          className: "min-h-screen bg-white",
+          children: [
+            (0, r.jsx)("section", {
+              className:
+                "py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-green-50 to-blue-50",
+              children: (0, r.jsxs)("div", {
+                className: "max-w-4xl mx-auto text-center",
+                children: [
+                  (0, r.jsx)("h1", {
+                    className: "text-4xl md:text-5xl text-gray-900 mb-6",
+                    children: "About Gradient",
+                  }),
+                  (0, r.jsx)("p", {
+                    className: "text-xl text-gray-600",
+                    children:
+                      "Building bridges between academic excellence and real-world innovation",
+                  }),
+                ],
+              }),
+            }),
+            (0, r.jsx)("section", {
+              className: "py-16 px-4 sm:px-6 lg:px-8",
+              children: (0, r.jsxs)("div", {
+                className: "max-w-4xl mx-auto",
+                children: [
+                  (0, r.jsxs)("div", {
+                    className: "text-center mb-12",
+                    children: [
+                      (0, r.jsx)("h2", {
+                        className: "text-3xl text-gray-900 mb-6",
+                        children: "Our Mission",
+                      }),
+                      (0, r.jsx)("p", {
+                        className: "text-lg text-gray-700 leading-relaxed",
+                        children:
+                          "Gradient is committed to fostering academic excellence through innovative educational programs, challenging competitions, and collaborative events. We believe that by pushing the boundaries of traditional education, we can inspire the next generation of leaders, thinkers, and innovators.",
+                      }),
+                    ],
+                  }),
+                  (0, r.jsxs)("div", {
+                    className: "grid grid-cols-1 md:grid-cols-2 gap-12 mb-16",
+                    children: [
+                      (0, r.jsxs)("div", {
+                        children: [
+                          (0, r.jsx)("h3", {
+                            className: "text-2xl text-gray-900 mb-4",
+                            children: "What We Do",
+                          }),
+                          (0, r.jsxs)("ul", {
+                            className: "space-y-3 text-gray-700",
+                            children: [
+                              (0, r.jsxs)("li", {
+                                className: "flex items-start",
+                                children: [
+                                  (0, r.jsx)("div", {
+                                    className:
+                                      "w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0",
+                                  }),
+                                  (0, r.jsx)("span", {
+                                    children:
+                                      "Develop and organize challenging academic Olympiads across multiple disciplines",
+                                  }),
+                                ],
+                              }),
+                              (0, r.jsxs)("li", {
+                                className: "flex items-start",
+                                children: [
+                                  (0, r.jsx)("div", {
+                                    className:
+                                      "w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0",
+                                  }),
+                                  (0, r.jsx)("span", {
+                                    children:
+                                      "Host JunctionX events that connect students with industry professionals",
+                                  }),
+                                ],
+                              }),
+                              (0, r.jsxs)("li", {
+                                className: "flex items-start",
+                                children: [
+                                  (0, r.jsx)("div", {
+                                    className:
+                                      "w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0",
+                                  }),
+                                  (0, r.jsx)("span", {
+                                    children:
+                                      "Create collaborative learning environments for academic growth",
+                                  }),
+                                ],
+                              }),
+                              (0, r.jsxs)("li", {
+                                className: "flex items-start",
+                                children: [
+                                  (0, r.jsx)("div", {
+                                    className:
+                                      "w-2 h-2 bg-gradient-to-r from-green-500 to-blue-600 rounded-full mt-2 mr-3 flex-shrink-0",
+                                  }),
+                                  (0, r.jsx)("span", {
+                                    children:
+                                      "Build partnerships with educational institutions and industry leaders",
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        children: [
+                          (0, r.jsx)("h3", {
+                            className: "text-2xl text-gray-900 mb-4",
+                            children: "Our Values",
+                          }),
+                          (0, r.jsxs)("div", {
+                            className: "space-y-4",
+                            children: [
+                              (0, r.jsxs)("div", {
+                                children: [
+                                  (0, r.jsx)("h4", {
+                                    className: "text-lg text-gray-900 mb-2",
+                                    children: "Excellence",
+                                  }),
+                                  (0, r.jsx)("p", {
+                                    className: "text-gray-600",
+                                    children:
+                                      "We strive for the highest standards in everything we do, from program development to event execution.",
+                                  }),
+                                ],
+                              }),
+                              (0, r.jsxs)("div", {
+                                children: [
+                                  (0, r.jsx)("h4", {
+                                    className: "text-lg text-gray-900 mb-2",
+                                    children: "Innovation",
+                                  }),
+                                  (0, r.jsx)("p", {
+                                    className: "text-gray-600",
+                                    children:
+                                      "We embrace new ideas and approaches to create unique learning experiences.",
+                                  }),
+                                ],
+                              }),
+                              (0, r.jsxs)("div", {
+                                children: [
+                                  (0, r.jsx)("h4", {
+                                    className: "text-lg text-gray-900 mb-2",
+                                    children: "Collaboration",
+                                  }),
+                                  (0, r.jsx)("p", {
+                                    className: "text-gray-600",
+                                    children:
+                                      "We believe in the power of working together to achieve greater impact.",
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    ],
+                  }),
+                ],
+              }),
+            }),
+            (0, r.jsx)("section", {
+              className: "py-16 px-4 sm:px-6 lg:px-8 bg-gray-50",
+              children: (0, r.jsxs)("div", {
+                className: "max-w-4xl mx-auto",
+                children: [
+                  (0, r.jsx)("h2", {
+                    className: "text-3xl text-gray-900 mb-8 text-center",
+                    children: "Our Journey",
+                  }),
+                  (0, r.jsxs)("div", {
+                    className: "space-y-8",
+                    children: [
+                      (0, r.jsxs)("div", {
+                        className:
+                          "flex flex-col md:flex-row items-start md:items-center gap-6",
+                        children: [
+                          (0, r.jsx)("div", {
+                            className:
+                              "w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",
+                            children: "2025",
+                          }),
+                          (0, r.jsxs)("div", {
+                            children: [
+                              (0, r.jsx)("h3", {
+                                className: "text-xl text-gray-900 mb-2",
+                                children: "Foundation",
+                              }),
+                              (0, r.jsx)("p", {
+                                className: "text-gray-600",
+                                children:
+                                  "Gradient was founded by a group of passionate educators and students with a vision to revolutionize academic competitions and educational events.",
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        className:
+                          "flex flex-col md:flex-row items-start md:items-center gap-6",
+                        children: [
+                          (0, r.jsx)("div", {
+                            className:
+                              "w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",
+                            children: "2025",
+                          }),
+                          (0, r.jsxs)("div", {
+                            children: [
+                              (0, r.jsx)("h3", {
+                                className: "text-xl text-gray-900 mb-2",
+                                children: "First Olympiad",
+                              }),
+                              (0, r.jsx)("p", {
+                                className: "text-gray-600",
+                                children:
+                                  "Launched our first academic Olympiad, attracting over 500 participants from universities across the region and establishing our reputation for excellence.",
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        className:
+                          "flex flex-col md:flex-row items-start md:items-center gap-6",
+                        children: [
+                          (0, r.jsx)("div", {
+                            className:
+                              "w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",
+                            children: "2025",
+                          }),
+                          (0, r.jsxs)("div", {
+                            children: [
+                              (0, r.jsx)("h3", {
+                                className: "text-xl text-gray-900 mb-2",
+                                children: "JunctionX Partnership",
+                              }),
+                              (0, r.jsx)("p", {
+                                className: "text-gray-600",
+                                children:
+                                  "Became an official JunctionX organizer, expanding our reach and creating opportunities for students to engage with cutting-edge technology and innovation.",
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        className:
+                          "flex flex-col md:flex-row items-start md:items-center gap-6",
+                        children: [
+                          (0, r.jsx)("div", {
+                            className:
+                              "w-24 h-24 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white text-xl font-medium flex-shrink-0",
+                            children: "Future",
+                          }),
+                          (0, r.jsxs)("div", {
+                            children: [
+                              (0, r.jsx)("h3", {
+                                className: "text-xl text-gray-900 mb-2",
+                                children: "Global Expansion",
+                              }),
+                              (0, r.jsx)("p", {
+                                className: "text-gray-600",
+                                children:
+                                  "Looking ahead, our vision is for Gradient to reach new continents, impact millions of students, and partner with the world’s leading institutions to foster academic innovation on a truly global scale.",
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                    ],
+                  }),
+                ],
+              }),
+            }),
+            (0, r.jsx)("section", {
+              className: "py-16 px-4 sm:px-6 lg:px-8",
+              children: (0, r.jsxs)("div", {
+                className: "max-w-6xl mx-auto",
+                children: [
+                  (0, r.jsx)("h2", {
+                    className: "text-3xl text-gray-900 mb-12 text-center",
+                    children: "Our Impact",
+                  }),
+                  (0, r.jsxs)("div", {
+                    className:
+                      "grid grid-cols-1 md:grid-cols-4 gap-8 text-center",
+                    children: [
+                      (0, r.jsxs)("div", {
+                        children: [
+                          (0, r.jsx)("div", {
+                            className: "text-4xl text-gray-900 mb-2",
+                            children: "5,000+",
+                          }),
+                          (0, r.jsx)("div", {
+                            className: "text-gray-600",
+                            children: "Students Reached",
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        children: [
+                          (0, r.jsx)("div", {
+                            className: "text-4xl text-gray-900 mb-2",
+                            children: "25+",
+                          }),
+                          (0, r.jsx)("div", {
+                            className: "text-gray-600",
+                            children: "Events Organized",
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        children: [
+                          (0, r.jsx)("div", {
+                            className: "text-4xl text-gray-900 mb-2",
+                            children: "50+",
+                          }),
+                          (0, r.jsx)("div", {
+                            className: "text-gray-600",
+                            children: "Partner Institutions",
+                          }),
+                        ],
+                      }),
+                      (0, r.jsxs)("div", {
+                        children: [
+                          (0, r.jsx)("div", {
+                            className: "text-4xl text-gray-900 mb-2",
+                            children: "15",
+                          }),
+                          (0, r.jsx)("div", {
+                            className: "text-gray-600",
+                            children: "Countries",
+                          }),
+                        ],
+                      }),
+                    ],
+                  }),
+                ],
+              }),
+            }),
+            (0, r.jsx)("section", {
+              className: "py-12 px-4 sm:px-6 lg:px-8 bg-gray-50",
+              children: (0, r.jsx)("div", {
+                className: "max-w-2xl mx-auto",
+                children: (0, r.jsx)(a.E, {}),
+              }),
+            }),
+          ],
+        });
+      }
+      function n() {
+        return (0, r.jsx)(i, {});
+      }
+    },
+    9184: function (e, t, s) {
+      "use strict";
+      s.d(t, {
+        E: function () {
+          return l;
+        },
+      });
+      var r = s(7437),
+        a = s(2265),
+        i = s(2869),
+        n = s(5186);
+      function l(e) {
+        let { variant: t = "default" } = e,
+          [s, l] = (0, a.useState)(""),
+          [d, c] = (0, a.useState)(!1),
+          o = (e) => {
+            (e.preventDefault(), c(!0), l(""), setTimeout(() => c(!1), 3e3));
+          };
+        return "hero" === t
+          ? (0, r.jsxs)("form", {
+              onSubmit: o,
+              className: "flex flex-col sm:flex-row gap-4 max-w-md mx-auto",
+              children: [
+                (0, r.jsx)(n.I, {
+                  type: "email",
+                  placeholder: "Enter your email address",
+                  value: s,
+                  onChange: (e) => l(e.target.value),
+                  required: !0,
+                  className: "flex-1",
+                }),
+                (0, r.jsx)(i.z, {
+                  type: "submit",
+                  className:
+                    "bg-gradient-to-r from-green-500 to-blue-600 hover:from-green-600 hover:to-blue-700 px-8",
+                  children: d ? "Subscribed!" : "Join Now",
+                }),
+              ],
+            })
+          : (0, r.jsxs)("div", {
+              className:
+                "bg-gradient-to-r from-green-50 to-blue-50 p-6 rounded-lg border border-gray-200",
+              children: [
+                (0, r.jsx)("h3", {
+                  className: "text-lg text-gray-900 mb-2",
+                  children: "Stay Updated",
+                }),
+                (0, r.jsx)("p", {
+                  className: "text-gray-600 mb-4",
+                  children:
+                    "Join our mailing list to receive updates about upcoming events, Olympiads, and important announcements.",
+                }),
+                (0, r.jsxs)("form", {
+                  onSubmit: o,
+                  className: "flex gap-4",
+                  children: [
+                    (0, r.jsx)(n.I, {
+                      type: "email",
+                      placeholder: "Enter your email address",
+                      value: s,
+                      onChange: (e) => l(e.target.value),
+                      required: !0,
+                      className: "flex-1",
+                    }),
+                    (0, r.jsx)(i.z, {
+                      type: "submit",
+                      className:
+                        "bg-gradient-to-r from-green-500 to-blue-600 hover:from-green-600 hover:to-blue-700",
+                      children: d ? "Subscribed!" : "Subscribe",
+                    }),
+                  ],
+                }),
+              ],
+            });
+      }
+    },
+    2869: function (e, t, s) {
+      "use strict";
+      s.d(t, {
+        z: function () {
+          return c;
+        },
+      });
+      var r = s(7437),
+        a = s(2265),
+        i = s(5293),
+        n = s(535),
+        l = s(9755);
+      let d = (0, n.j)(
+          "inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50",
+          {
+            variants: {
+              variant: {
+                default:
+                  "bg-gradient-to-r from-green-500 to-blue-600 text-white hover:from-green-600 hover:to-blue-700",
+                destructive: "bg-red-500 text-white hover:bg-red-600",
+                outline:
+                  "border border-input bg-transparent hover:bg-gray-50 text-gray-900",
+                secondary: "bg-gray-100 text-gray-900 hover:bg-gray-200",
+                ghost: "hover:bg-gray-100 hover:text-gray-900",
+                link: "text-blue-600 underline-offset-4 hover:underline",
+              },
+              size: {
+                default: "h-10 px-4 py-2",
+                sm: "h-9 px-3",
+                lg: "h-11 px-8",
+                icon: "h-10 w-10",
+              },
+            },
+            defaultVariants: { variant: "default", size: "default" },
+          },
+        ),
+        c = a.forwardRef((e, t) => {
+          let { className: s, variant: a, size: n, asChild: c = !1, ...o } = e,
+            x = c ? i.g7 : "button";
+          return (0, r.jsx)(x, {
+            className: (0, l.cn)(d({ variant: a, size: n }), s),
+            ref: t,
+            ...o,
+          });
+        });
+      c.displayName = "Button";
+    },
+    5186: function (e, t, s) {
+      "use strict";
+      s.d(t, {
+        I: function () {
+          return n;
+        },
+      });
+      var r = s(7437),
+        a = s(2265),
+        i = s(9755);
+      let n = a.forwardRef((e, t) => {
+        let { className: s, type: a = "text", ...n } = e;
+        return (0, r.jsx)("input", {
+          type: a,
+          className: (0, i.cn)(
+            "flex h-10 w-full rounded-md border border-input bg-white px-3 py-2 text-sm text-gray-900 shadow-sm transition-colors placeholder:text-gray-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50",
+            s,
+          ),
+          ref: t,
+          ...n,
+        });
+      });
+      n.displayName = "Input";
+    },
+    9755: function (e, t, s) {
+      "use strict";
+      s.d(t, {
+        cn: function () {
+          return i;
+        },
+      });
+      var r = s(1994),
+        a = s(3335);
+      function i() {
+        for (var e = arguments.length, t = Array(e), s = 0; s < e; s++)
+          t[s] = arguments[s];
+        return (0, a.m6)((0, r.W)(t));
+      }
+    },
+  },
+  function (e) {
+    (e.O(0, [50, 971, 117, 744], function () {
+      return e((e.s = 433));
+    }),
+      (_N_E = e.O()));
+  },
+]);
